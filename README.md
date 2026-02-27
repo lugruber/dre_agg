@@ -1,4 +1,4 @@
-# Minimax-optimal Aggregation for Density Ratio Estimation
+# Minimax-Optimal Aggregation for Density Ratio Estimation
 
 ## Requirmenets:
 - Python3
